@@ -24,7 +24,8 @@ export default function Portfolio() {
           <div className="mb-6">
             <div className="w-40 h-40 mx-auto rounded-full bg-gradient-to-br from-purple-500 to-pink-500 p-1">
               <img
-                 src="public\chhavi.jpg"
+                 src="/chhavi.jpg
+"
                  alt="Chhavi Choudhary"
                  className="w-full h-full rounded-full object-cover bg-slate-800"
               />
